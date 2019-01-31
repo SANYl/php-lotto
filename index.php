@@ -7,6 +7,7 @@
     <body>
         Ez az index.php
         <?php
+            echo "itt mar a php script fut";
         // put your code here
         ?>
     </body>
