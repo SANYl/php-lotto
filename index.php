@@ -19,6 +19,7 @@
                             }
                         }
                         var_dump($tomb);
+                         echo "ez msr s szam tomb!";
             echo "itt mar a php script fut";
         // put your code here
         ?>
